@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <style>
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-bottom: 0.5em;
+            text-transform: capitalize;
+        }
+    </style>
+
+    
+
+</head>
+
+<body>
+    <header style="padding:0;background:var(--card-background-color)">
+        <nav class="container-fluid">
+            <ul>
+                <li><a href="https://redben.github.io/wika-test-content/ index" class="contrast"
+                        onclick="event.preventDefault()"><strong>Wika test content</strong></a></li>
+            </ul>
+            <ul>
+                
+                <li><a href="https://redben.github.io/wika-test-content/recipes">Recipes</a></li>
+                
+                <li><a href="https://redben.github.io/wika-test-content/tags">Tags</a></li>
+                
+                <li><a href="https://redben.github.io/wika-test-content/about">About</a></li>
+                
+                <li><a href="#" class="contrast" data-theme-switcher="auto">Auto</a></li>
+                <li><a href="#" class="contrast" data-theme-switcher="light">Light</a></li>
+                <li><a href="#" class="contrast" data-theme-switcher="dark">Dark</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        
+<h2>boiling water</h2>
+
+
+
+    </div>
+    <footer></footer>
+
+    <script>
+        /*!
+            * Minimal theme switcher
+            *
+            * Pico.css - https://picocss.com
+            * Copyright 2020 - Licensed under MIT
+            */
+
+        const themeSwitcher = {
+            // Config
+            buttonsTarget: "a[data-theme-switcher]",
+            buttonAttribute: "data-theme-switcher",
+            rootAttribute: "data-theme",
+
+            // Init
+            init() {
+                document.querySelectorAll(this.buttonsTarget).forEach(
+                    function (button) {
+                        button.addEventListener(
+                            "click",
+                            function (event) {
+                                event.preventDefault();
+                                document
+                                    .querySelector("html")
+                                    .setAttribute(
+                                        this.rootAttribute,
+                                        event.target.getAttribute(this.buttonAttribute)
+                                    );
+                            }.bind(this),
+                            false
+                        );
+                    }.bind(this)
+                );
+            },
+        };
+
+        // Init
+        themeSwitcher.init();
+    </script>
+</body>
+
+</html>
