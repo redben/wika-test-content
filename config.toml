@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://randombishop.github.com/wika-test-content"
+# The basic information about the site
+title = "Wika Test Content"
+description = "A site for testing wika features"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The taxonomies to be rendered for the site and their configuration.
+taxonomies = [
+  {name = "tags", feed = false}, # each tag will have its own feed
+  {name = "ingredients", feed = false}, # each tag will have its own feed
+]
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+# Menu items
+[[extra.menu]]
+name = "Recipes"
+url = "recipes"
+
+[[extra.menu]]
+name = "Tags"
+url = "tags"
+
+[[extra.menu]]
+name = "About"
+url = "about"

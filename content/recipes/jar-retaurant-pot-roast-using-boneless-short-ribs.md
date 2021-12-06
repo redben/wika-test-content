@@ -1,0 +1,91 @@
+---
+title: Jar Retaurant Pot Roast Using Boneless Short Ribs
+date: 2013-01-03T00:00:00.000Z
+description: "Chef suzanne tracht, whose restaurant jar has received myriad honors since opening in 2001, has become nationally known for her pot roast.the beef is an unusual cut: a denuded short rib, which is a big piece of short rib with the bones and exterior fat removed. it can be ordered from a butcher; alternatively, costco sells boneless short ribs sliced into portions. serving options: serve with caramelized onions, roasted carrots, horseradish cream. ingredients & recipes noted below. from the wsj http://online.wsj.com/article/sb123819733281561707.html?mod=slideshow_overlay_mod#articletabs%3darticle\r\nallow more time if you are using some of her serving suggestions. these can be done while the meat is cooking. enjoy."
+taxonomies:
+  tags:
+    - time-to-make
+    - course
+    - main-ingredient
+    - preparation
+    - main-dish
+    - beef
+    - meat
+    - 4-hours-or-less
+  ingredients:
+    - canola oil
+    - kosher salt
+    - rib
+    - carrots
+    - onion
+    - celery
+    - leek
+    - bulb of garlic
+    - bay leaf
+    - sherry wine
+    - chicken stock
+    - parsley
+    - caramelized onion
+    - onions
+    - salt
+    - black pepper
+    - carrot
+    - fresh thyme leave
+    - horseradish sauce
+    - sour cream
+    - horseradish
+    - prepared horseradish
+    - ground black pepper
+    - heavy cream
+    - tabasco sauce
+    - worcestershire sauce
+    - lemon
+extra:
+  minutes: 210
+---
+ - Set rack to the lower third of the oven
+ - Preheat oven to 375 degrees
+ - Dry beef with paper towels , season with salt and pepper
+ - Set a dutch oven on high heat until it is very hot
+ - Add oil and heat until just smoking
+ - Sear beef until it is a deep , rich brown , about 3 to 5 minutes a side
+ - Remove beef from pot
+ - Discard all but a teaspoon of fat
+ - Add sherry to pot and reduce by half , about 4 minutes , while scraping up flavorful brown bits with a wooden spoon
+ - Put all vegetables into pot and cook until slightly soft , about 5 minutes
+ - Add bay leaf and beef , with any accumulated juices , then pour on chicken stock until the beef is three-quarters covered
+ - Cover pot with tin foil or a tight-fitting lid and place in oven
+ - Check after 15 minutes to make sure liquid is simmering lightly
+ - Adjust heat as needed
+ - Continue cooking for a total of three hours
+ - Allow the meat to cool in the liquid
+ - When cool , degrease , either by using a degreasing pitcher or by chilling in the refrigerator and removing most of the hardened fat from the surface of the liquid
+ - To serve , place a colander over a large bowl
+ - Remove meat from liquid
+ - Strain the liquid , pressing down on vegetables to remove all the juice
+ - Discard vegetables
+ - Return the meat to the liquid and reheat
+ - Cut meat into portions and place each in a pasta dish
+ - Spoon a generous portion of the braising liquid around the beef
+ - Top with a spoonful of caramelized onions and a roasted carrot
+ - Sprinkle with parsley
+ - Serving options: serve with caramelized onions , roasted carrots , horseradish cream
+ - Recipes
+ - Caramelized onions
+ - Heat a fry pan until very hot
+ - Add oil , then the onions
+ - Sprinkle with salt and pepper , and , using tongs , toss occasionally
+ - Cook for about 10 minutes until onions are golden brown and very soft
+ - If onions begin to burn , add 2 to 3 tablespoons of water , reduce heat and continue cooking
+ - Roasted carrots
+ - Preheat oven to 425 degrees
+ - Heat a fry pan until very hot
+ - Add oil , then the carrots
+ - Add thyme , salt and pepper
+ - Agitate the pan to allow the carrots to brown slightly on all sides , about 2 minutes
+ - Move pan to oven and roast for about 20 minutes , until carrots are tender
+ - Creamy horseradish sauce
+ - In a large bowl , whisk together all ingredients
+ - Taste
+ - Add more fresh and prepared horseradish , lemon and tabasco to taste
+ - Refrigerate

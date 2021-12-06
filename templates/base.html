@@ -1,0 +1,95 @@
+{% import 'macros.html' as macros %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <style>
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-bottom: 0.5em;
+            text-transform: capitalize;
+        }
+    </style>
+
+    {% block seo %}
+    {%- set site_url = current_url | default(value=get_url(path="404.html")) -%}
+    {% set author = config.extra.author | default(value="") -%}
+    {% set description = config.description | default(value="") -%}
+    {% set image = config.extra.seo.image | default(value="") -%}
+    {% set image_height = config.extra.seo.image_height | default(value=0) -%}
+    {% set image_width = config.extra.seo.image_width | default(value=0) -%}
+    {% endblock %}
+
+</head>
+
+<body>
+    <header style="padding:0;background:var(--card-background-color)">
+        <nav class="container-fluid">
+            <ul>
+                <li><a href="{{ get_url(path=" index") | safe }}" class="contrast"
+                        onclick="event.preventDefault()"><strong>Wika test content</strong></a></li>
+            </ul>
+            <ul>
+                {% for menu in config.extra.menu %}
+                <li><a href="{{ get_url(path=menu.url) | safe }}">{{ menu.name }}</a></li>
+                {% endfor %}
+                <li><a href="#" class="contrast" data-theme-switcher="auto">Auto</a></li>
+                <li><a href="#" class="contrast" data-theme-switcher="light">Light</a></li>
+                <li><a href="#" class="contrast" data-theme-switcher="dark">Dark</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        {% block content %} {% endblock %}
+    </div>
+    <footer></footer>
+
+    <script>
+        /*!
+            * Minimal theme switcher
+            *
+            * Pico.css - https://picocss.com
+            * Copyright 2020 - Licensed under MIT
+            */
+
+        const themeSwitcher = {
+            // Config
+            buttonsTarget: "a[data-theme-switcher]",
+            buttonAttribute: "data-theme-switcher",
+            rootAttribute: "data-theme",
+
+            // Init
+            init() {
+                document.querySelectorAll(this.buttonsTarget).forEach(
+                    function (button) {
+                        button.addEventListener(
+                            "click",
+                            function (event) {
+                                event.preventDefault();
+                                document
+                                    .querySelector("html")
+                                    .setAttribute(
+                                        this.rootAttribute,
+                                        event.target.getAttribute(this.buttonAttribute)
+                                    );
+                            }.bind(this),
+                            false
+                        );
+                    }.bind(this)
+                );
+            },
+        };
+
+        // Init
+        themeSwitcher.init();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+
+{% block seo -%}
+  {{ super() }}
+
+  {%- set og_title = page.title -%}
+
+  {% if config.title and page.title -%}
+  	{% set title = page.title ~ " | " ~ config.title -%}
+  {% elif page.title -%}
+		{% set title = page.title -%}
+  {% elif config.title -%}
+    {% set title = config.title -%}
+  {% else -%}
+    {% set title = "" -%}
+  {% endif -%}
+
+  {% if page.extra.author -%}
+		{% set author = page.extra.author -%}
+  {% endif -%}
+
+  {% if page.description -%}
+		{% set description = page.description -%}
+  {% endif -%}
+
+  {% if page.extra.image -%}
+		{% set image = page.extra.image -%}
+  {% endif -%}
+
+  {% if page.extra.image_height -%}
+		{% set image_height = page.extra.image_height -%}
+  {% endif -%}
+
+  {% if page.extra.image_width -%}
+		{% set image_width = page.extra.image_width -%}
+  {% endif -%}
+
+  {% set web_type = "BlogPosting" -%}
+  
+  {{ macros::seo(title=title, og_title=og_title, author=author, description=description, site_url=site_url, image=image, image_height=image_height, image_width=image_width, web_type=web_type) }}
+{%- endblock seo %}
+
+{% block content %}
+<main>
+    <article>
+        <header>
+            <h1>
+                {{ page.title }}
+            </h1>
+            <p class="subtitle"><strong>{{ page.date | date(format="%d-%m-%Y") }}</strong></p>
+            <p>{{ page.description | safe }}</p>
+        </header>
+        {{ page.content | safe }}
+        <footer>
+        {% if page.taxonomies.tags %}
+            <nav>
+                <ul>
+                    {% for tag in page.taxonomies.tags %}
+                    <li><a href="#">{{tag}}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        {% endif %}
+        </footer>
+    </article>
+</main>
+{% endblock content %}

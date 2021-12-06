@@ -1,0 +1,110 @@
+---
+title: Swedish Meatballs In Sour Cream Sauce Over Buttered Egg Noodles
+date: 2011-11-04T00:00:00.000Z
+description: >-
+  My recipe for swedish-style meatballs in sour cream sauce with buttered
+  noodles is a bit of work to prepare... but so worth it.
+taxonomies:
+  tags:
+    - 60-minutes-or-less
+    - time-to-make
+    - course
+    - main-ingredient
+    - cuisine
+    - preparation
+    - occasion
+    - main-dish
+    - pasta
+    - scandinavian
+    - easy
+    - european
+    - kid-friendly
+    - swedish
+    - dietary
+    - comfort-food
+    - meat
+    - pasta-rice-and-grains
+    - taste-mood
+    - presentation
+    - served-hot
+    - from-scratch
+  ingredients:
+    - egg
+    - sour cream
+    - flour
+    - beef bouillon powder
+    - onion flakes
+    - baking powder
+    - dried parsley flakes
+    - lemon pepper
+    - dried dill
+    - paprika
+    - ground allspice
+    - ground ginger
+    - ground nutmeg
+    - fresh ground pepper
+    - sea salt
+    - ground meat
+    - unseasoned breadcrumbs
+    - all-purpose flour
+    - butter
+    - white mushrooms
+    - beef broth
+    - lemon juice
+    - worcestershire sauce
+    - fresh parsley
+    - granulated sugar
+    - dill weed
+    - wide egg noodles
+    - water
+    - salted butter
+    - fresh parsley sprig
+extra:
+  minutes: 60
+---
+ - Whisk 1 large egg in a large mixing bowl with 3 tablespoons sour cream , 2 teaspoons flour and 1 teaspoon baking powder
+ - Add the following meatball ingredients and whisk again: 2 teaspoons instant beef bouillon powder , 2 teaspoons minced onion flakes , 1 teaspoon baking powder , 1 1 / 2 teaspoons dried parsley flakes , 1 teaspoon lemon pepper , 1 / 2 teaspoon dried dill , 1 / 2 teaspoon paprika , 1 / 4 teaspoon ground allspice , 1 / 4 teaspoon ground ginger , 1 / 4 teaspoon ground nutmeg , 1 / 4 teaspoon fresh ground pepper and 1 / 4 teaspoon sea salt
+ - Place 1 lb
+ - Of ground beef or pork or veal or turkey into bowl with mixture
+ - Add 1 / 3 cup unseasoned breadcrumbs
+ - Mix well using hands , or using a large fork
+ - Add 1 / 4 cup flour dredge to a large mixing bowl and place into working area
+ - Roll meat mixture with hands into 1-inch balls
+ - Gently place formed meatballs into the flour dredge
+ - Repeat with remaining meatballs
+ - Swirl meatballs in bowl of flour until coated
+ - Melt a few tablespoons butter in a large non-stick skillet or saucepan over medium heat to brown meatballs in
+ - Gently place dredged meatballs into buttered skillet , reserving dredge bowl and setting aside
+ - Brown meatballs , scraping and turning gently with a spatula
+ - Pour one can beef broth over browned meatballs
+ - Bring to a gentle boil
+ - Cover to steam meatballs for 5 minutes
+ - Wipe the previous dredge bowl clean
+ - Place a large fine mesh strainer over bowl
+ - Carefully pour broth and meatballs into strainer
+ - Stir in the remaining can broth
+ - Reserve broth mixture until needed
+ - Wipe browning skillet and place over medium-low heat
+ - Melt 1 / 3 cup butter
+ - Add 4 ounces thinly sliced mushrooms if using and saute until golden
+ - Sprinkle in 1 / 3 cup flour
+ - Cook mixture , stirring , just until bubbly and light golden
+ - Add the seasonings for the sauce into reserved broth mixture in bowl: 1 / 2 tablespoon lemon juice , 1 / 2 tablespoon of the fresh minced parsley , 1 / 2 tablespoon worcestershire sauce , 1 teaspoon onion flakes , 1 / 2 teaspoon sugar , 1 1 / 4 teaspoons paprika , 1 / 2 teaspoon dill weed , 1 / 4 teaspoon ground ginger , 1 / 4 teaspoon ground nutmeg , 1 / 4 teaspoon fresh ground black or white pepper , and 1 / 8 teaspoon ground allspice ,
+ - Whisk seasoned broth into roux skillet until smooth
+ - Bring to a boil while whisking constantly , until fully thickened
+ - Reduce heat to low to keep warm
+ - Cook 8-12 ounces wide egg noodles according to package directions
+ - Drain
+ - Return cooked noodles to same pot over low heat
+ - Add 1 - 2 tablespoons salted butter , 1 1 / 2 tablespoons water and the remaining minced fresh parsley
+ - Toss noodles gently until butter melts
+ - Cover and keep warm on lowest heat , re-moistening with water if needed
+ - Whisk in 1 cup sour cream into warm sauce mixture
+ - Season the sauce to taste if desired
+ - Add meatballs and heat gently uncovered , stirring occasionally
+ - Cover and reduce heat to lowest setting
+ - Stir just before serving
+ - Arrange warm buttered egg noodles on serving plates
+ - Ladle warm meatballs and sauce over noodles
+ - Garnish each serving with a light dusting of paprika , and a fresh parsley sprig
+ - Serve and enjoy !

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main>
+  <h1 class="title">
+    {{ section.title }}
+  </h1>
+
+  {% for page in paginator.pages %}
+  <article>
+    <time>{{ page.date | date(format="%d-%m-%Y") }}</time>
+    <h3 style="text-transform: capitalize;"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+
+    <p>{{ page.description | truncate(length=128, end="...") | safe }}</p>
+  </article>
+  {% endfor %}
+  <footer>
+  <nav class="pagination">
+      {% if paginator.previous %}
+          <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+      {% endif %}
+      {% if paginator.next %}
+          <a class="next" href="{{ paginator.next }}">Next ›</a>
+      {% endif %}
+  </nav>
+  </footer>
+</main>
+{% endblock content %}
