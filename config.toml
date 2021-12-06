@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://randombishop.github.com/wika-test-content"
+base_url = "https://redben.github.io/wika-test-content"
 # The basic information about the site
 title = "Wika Test Content"
 description = "A site for testing wika features"
